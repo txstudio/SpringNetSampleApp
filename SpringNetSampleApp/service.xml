@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- type=LocalDateTime -->
+<!--<objects xmlns="http://www.springframework.net">
+	<object name="InjectDateTime" type="SpringNetSampleApp.LocalDateTime, SpringNetSampleApp">
+	</object>
+</objects>-->
+
+<!-- type=UtcDateTime -->
+<!--<objects xmlns="http://www.springframework.net">
+	<object name="InjectDateTime" type="SpringNetSampleApp.UtcDateTime, SpringNetSampleApp">
+	</object>
+</objects>-->
+
+<!-- type=BirthDateTime -->
+<objects xmlns="http://www.springframework.net">
+	<object name="InjectDateTime" type="SpringNetSampleApp.BirthDateTime, SpringNetSampleApp">
+	</object>
+</objects>
